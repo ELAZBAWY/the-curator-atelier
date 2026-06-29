@@ -1,0 +1,176 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "book": "Book Appointment",
+    "contact": "Contact",
+    "login": "Sign In",
+    "register": "Create Account",
+    "dashboard": "Dashboard",
+    "logout": "Sign Out"
+  },
+  "hero": {
+    "badge": "Trusted by 2000+ Patients",
+    "title": "Your Perfect Smile Starts Here",
+    "subtitle": "Experience world-class dental care with state-of-the-art technology and a compassionate team dedicated to your oral health and beautiful smile.",
+    "ctaPrimary": "Book Appointment",
+    "ctaSecondary": "Our Services",
+    "statPatients": "Patients Treated",
+    "statExperience": "Years Experience",
+    "statRating": "Star Rating",
+    "statAwards": "Awards Won"
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Comprehensive dental solutions tailored to your needs",
+    "bookNow": "Book Now",
+    "startingFrom": "Starting from",
+    "services": {
+      "cleaning": {
+        "name": "Teeth Cleaning",
+        "description": "Professional deep cleaning to remove plaque and tartar for a healthier smile."
+      },
+      "whitening": {
+        "name": "Teeth Whitening",
+        "description": "Advanced whitening treatments to brighten your smile safely and effectively."
+      },
+      "implants": {
+        "name": "Dental Implants",
+        "description": "Permanent tooth replacement solutions that look and feel completely natural."
+      },
+      "orthodontics": {
+        "name": "Orthodontics (Braces)",
+        "description": "Straighten your teeth with modern braces and clear aligner options."
+      },
+      "rootCanal": {
+        "name": "Root Canal Treatment",
+        "description": "Pain-free root canal therapy to save damaged teeth and relieve discomfort."
+      },
+      "cosmetic": {
+        "name": "Cosmetic Dentistry",
+        "description": "Transform your smile with veneers, bonding, and aesthetic enhancements."
+      }
+    }
+  },
+  "stats": {
+    "patients": "Patients Treated",
+    "experience": "Years of Experience",
+    "satisfaction": "Satisfaction Rate",
+    "awards": "Awards & Recognition"
+  },
+  "testimonials": {
+    "title": "What Our Patients Say",
+    "subtitle": "Real stories from real patients"
+  },
+  "footer": {
+    "tagline": "Your trusted partner in dental health and beautiful smiles.",
+    "quickLinks": "Quick Links",
+    "services": "Services",
+    "contact": "Contact Us",
+    "address": "123 Dental Street, Cairo, Egypt",
+    "phone": "+20 123 456 7890",
+    "email": "hello@drahmed-dental.com",
+    "copyright": "Dr. Ahmed Dental Clinic. All rights reserved."
+  },
+  "booking": {
+    "title": "Book an Appointment",
+    "subtitle": "Schedule your visit in just a few steps",
+    "step1": "Service",
+    "step2": "Date",
+    "step3": "Time",
+    "step4": "Details",
+    "selectService": "Select Service",
+    "selectDate": "Select Date",
+    "selectTime": "Select Time",
+    "patientDetails": "Patient Details",
+    "fullName": "Full Name",
+    "phone": "Phone Number",
+    "email": "Email Address",
+    "notes": "Additional Notes (Optional)",
+    "next": "Next Step",
+    "back": "Back",
+    "confirm": "Confirm Booking",
+    "edit": "Edit",
+    "confirmPay": "Confirm & Pay",
+    "summary": "Booking Summary",
+    "service": "Service",
+    "date": "Date",
+    "time": "Time",
+    "price": "Price",
+    "success": "Booking confirmed successfully!",
+    "closedFriday": "Clinic is closed on Fridays",
+    "noSlots": "No available slots for this date"
+  },
+  "payment": {
+    "title": "Complete Payment",
+    "subtitle": "Secure payment for your dental appointment",
+    "orderSummary": "Order Summary",
+    "serviceFee": "Service Fee",
+    "vat": "VAT (14%)",
+    "total": "Total",
+    "cardholderName": "Cardholder Name",
+    "cardNumber": "Card Number",
+    "expiry": "Expiry (MM/YY)",
+    "cvv": "CVV",
+    "payAtClinic": "Pay at Clinic",
+    "payNow": "Pay {amount} EGP",
+    "securePayment": "Secure Payment",
+    "processing": "Processing...",
+    "success": "Payment successful! Redirecting to dashboard...",
+    "invalidCard": "Invalid card number",
+    "invalidExpiry": "Invalid expiry date",
+    "invalidCvv": "Invalid CVV"
+  },
+  "auth": {
+    "loginTitle": "Welcome Back",
+    "loginSubtitle": "Sign in to your account to manage appointments",
+    "registerTitle": "Create Account",
+    "registerSubtitle": "Join us for a healthier smile",
+    "email": "Email Address",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "fullName": "Full Name",
+    "phone": "Phone Number",
+    "rememberMe": "Remember me",
+    "forgotPassword": "Forgot password?",
+    "signIn": "Sign In",
+    "signUp": "Create Account",
+    "googleSignIn": "Continue with Google",
+    "noAccount": "Don't have an account?",
+    "hasAccount": "Already have an account?",
+    "createOne": "Create one",
+    "loginHere": "Sign in here",
+    "passwordMismatch": "Passwords do not match",
+    "passwordMin": "Password must be at least 8 characters",
+    "invalidEmail": "Invalid email address",
+    "required": "This field is required",
+    "loginSuccess": "Welcome back!",
+    "registerSuccess": "Account created successfully!"
+  },
+  "dashboard": {
+    "welcome": "Welcome, {name}",
+    "upcoming": "Upcoming Appointments",
+    "past": "Past Appointments",
+    "noAppointments": "No appointments yet",
+    "bookNew": "Book New Appointment",
+    "viewServices": "View Services",
+    "signOut": "Sign Out",
+    "date": "Date",
+    "time": "Time",
+    "service": "Service",
+    "status": "Status",
+    "confirmed": "Confirmed",
+    "completed": "Completed",
+    "cancelled": "Cancelled"
+  },
+  "common": {
+    "currency": "EGP",
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "retry": "Retry",
+    "save": "Save",
+    "cancel": "Cancel",
+    "close": "Close",
+    "continue": "Continue"
+  }
+}
